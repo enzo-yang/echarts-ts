@@ -1,5 +1,7 @@
 {
   "name": "@types/echarts",
+  "version": "0.0.1",
+  "description": "echarts typescript definitely",
   "private": true,
   "types": "index.d.ts"
 }
