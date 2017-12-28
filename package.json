@@ -1,0 +1,5 @@
+{
+  "name": "@types/echarts",
+  "private": true,
+  "types:" "index.d.ts"
+}
