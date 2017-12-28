@@ -1,5 +1,5 @@
 {
   "name": "@types/echarts",
   "private": true,
-  "types:" "index.d.ts"
+  "types": "index.d.ts"
 }
